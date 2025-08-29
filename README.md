@@ -11,4 +11,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/sara-maria/)  
 - ✉️ Email: **sara.m.inacio.tome@gmail.com**
 
-![Metrics](https://github.com/tryingtocod/metrics/blob/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/tryingtocod/metrics/main/github-metrics.svg)
