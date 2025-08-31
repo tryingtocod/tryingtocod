@@ -1,10 +1,4 @@
-# 👋 Hi, I'm Sara!
-
-✨ Passionate about **educational technology and user support**  
-💻 Experienced with **Minecraft Education, Google Workspace, Jira, and Swift Playgrounds**  
-🎯 Motivated by challenges and continuous learning  
-🌱 Currently exploring **LLM integrations with OWL and symbolic reasoning**
-
+# 👋 Hi, I'm Sara
 ---
 
 ## 📫 Get in Touch
