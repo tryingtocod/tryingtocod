@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Sara
----
-
 ## 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/sara-maria/)  
 - ✉️ Email: **sara.m.inacio.tome@gmail.com**
