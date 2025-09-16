@@ -1,20 +1,20 @@
-<img align="right" height="150" src="https://media.tenor.com/FYsjyvi3C7kAAAAm/rupert-cat.webp"  />
+<img align="right" height="100" src="https://media.tenor.com/FYsjyvi3C7kAAAAm/rupert-cat.webp"  />
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/wOSXqQeC7BIAAAAM/black-cat.gif"  />
+<img align="right" height="100" src="https://media.tenor.com/wOSXqQeC7BIAAAAM/black-cat.gif"  />
 
 ###
 
 <div align="center">
-  <img height="150" src="https://media.tenor.com/48vAcnn-he4AAAAm/miso-cat.webp"  />
+  <img height="100" src="https://media.tenor.com/48vAcnn-he4AAAAm/miso-cat.webp"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h5 align="right">Hi, I'm Sara — without the "h"  <br>Because the "h" was too heavy to carry 😅  <br>Coder of bugs I call *features*,  <br>Collector of TODOs that future-me will regret,  <br>And professional coffee-to-code converter ☕➡️💻</h5>
+<h3 align="right">Hi, I'm Sara — without the "h"  <br>Because the "h" was too heavy to carry 😅  <br>Coder of bugs I call *features*,  <br>Collector of TODOs that future-me will regret,  <br>And professional coffee-to-code converter ☕➡️💻</h3>
 
 ###
 
