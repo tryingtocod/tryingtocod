@@ -1,27 +1,31 @@
-name: Generate Snake
+name: generate-snake
 
 on:
-  schedule: # roda automaticamente todo dia
+  schedule: # roda todo dia à meia-noite
     - cron: "0 0 * * *"
   workflow_dispatch: # permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 👈 dá permissão de escrita
 
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: tryingtocod
           outputs: dist/snake.svg
 
-      - name: Push Snake
-        uses: EndBug/add-and-commit@v9
+      - name: Push Snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          branch: output
-          message: "Generate snake animation"
-          add: "dist/snake.svg"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
